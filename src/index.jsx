@@ -3,9 +3,8 @@ import './index.css';
 import App from './App';
 
 ReactDOM.render(
-  <React.StrictMoxde>
-    x
+  <React.StrictMode>
     <App />
-  </React.StrictMoxde>,
-  document.getElemexntById('root')
+  </React.StrictMode>,
+  document.getElementById('root')
 );
