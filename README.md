@@ -1,7 +1,6 @@
 <h1 align="center">
   Vite Template React
 </h1>
-   
 
 <p align="center">
     A <a href="https://vitejs.dev">Vite</a> + <a href="https://reactjs.org">React</a> starter template.
@@ -35,6 +34,7 @@ vite-template-react
 - Faster Build time
 - Much lighter than CRA.
 - No need to `import react from React` anywhere.
+- ESLint AirBnb style
 
 ## Instructions
 
